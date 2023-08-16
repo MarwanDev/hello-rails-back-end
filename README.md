@@ -1,5 +1,4 @@
 # hello-rails-back-end
-# hello-jsbundling-rails
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
